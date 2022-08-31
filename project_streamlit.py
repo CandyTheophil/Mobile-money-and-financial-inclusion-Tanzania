@@ -7,7 +7,7 @@ from os.path import dirname, join, realpath
 
 # add banner image
 st.header("MOBILE MONEY AND FINANCIAL INCLUSION IN TANZANIA")
-st.image("Images/IMG_3310.jpg")
+st.image("Images/IMG_3310.JPG")
 
 
 # form to collect information
